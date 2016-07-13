@@ -17,7 +17,7 @@ sudo apt-get install python python3 python3-dev python3-pip
 mkdir stats
 cd stats
 
-### now you will wnat ot cloan the git repsoitory to this folder and for this README we will call that folder quickstats
+### now you will want to clone the git repsoitory to this folder and for this README we will call that folder quickstats
 
 sudo pip3 install -r requirements.txt
 
@@ -32,7 +32,7 @@ sudo crontab -e
 
 
 
-Remember if you have any questions or need anything your can find me on twitter @lazerhawk05 or submit a pull request
+Remember if you have any questions or need anything you can find me on twitter @lazerhawk05 or submit a pull request
 to get something changed.
 
 Enjoy!!
